@@ -36,7 +36,7 @@
         // Run end-to-end tests
         "e2e": {
             "dependsOn": ["^e2e"],
-            "env": ["BASE_URL"]
+            "env": ["https://taupe-llama-b9bb5b.netlify.app/"]
         },
         // Start the package in development mode
         "dev": {
